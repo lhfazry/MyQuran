@@ -1,0 +1,16 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/quran"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/a109_1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter" />
+
+</ScrollView>
